@@ -26,6 +26,7 @@ npm run dev
 npm run docker
 
 
+## API Docs
   
 1a. Register user :
 
